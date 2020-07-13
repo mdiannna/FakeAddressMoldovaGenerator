@@ -40,10 +40,3 @@ def random_address_format2():
 def random_address_format1_short():
 	return random_street_short() +  " " + str(randint(1, 20)) + "/" +  str(randint(1,10)) + " ap. " +  str(randint(100, 500))
 
-
-print(random_street())
-print(random_street_short())
-print(random_address_format1())
-print(random_address_format2())
-print(random_address_format1_short())
-print(random_address_format1_complet())
