@@ -1,4 +1,4 @@
-# Python Fake Address Generator for Moldova`
+# Python Fake Address Generator for Moldova
 
 ## Usage:
     import faker_addr_md as addr_md
